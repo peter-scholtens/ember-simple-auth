@@ -1,0 +1,6 @@
+# Unlabeled Changes
+
+* [#2824](https://github.com/mainmatter/ember-simple-auth/pull/2824) chore(deps): lock maintenance ([@BobrImperator](https://github.com/BobrImperator))
+
+
+*Cannot plan release until the above changes are labeled*.
